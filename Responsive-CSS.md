@@ -333,8 +333,63 @@ if (window.matchMedia(
 
 - Ajax-include-pattern.js
 
-Gives attributes to inline html elements so that the view port can be specified on the explicit element.
+Gives inline attributes to elements. This way we can display/not-display the element on the specific view port specified on the element.
 
 ```html
 <h2 data-after="demo-content/link.html" data-media="(min-width: 40em)" data-ajax-bound="true">
 ```
+
+##### Polyfill for <picture>
+
+- Picturefill (by @scittjehl)
+
+##### Only load needed css
+
+- eCSSential (by @scottjehl)
+
+
+##### FitText
+
+- fittextjs.com
+- slabtext
+
+###### FITVID.JS
+
+- Fitvid.js
+
+
+# Lessons learned
+
+## Pricing:
+
+What does a responsive website cost?
+- Depends on the time it takes
+
+## Prioritization
+
+There is beauty in simplicity
+
+## Testing, Consistency and Experimenting
+
+Test on real devices
+- Changing the width of the browser is not enough, can really only test layout
+- Cant test contrast or performance
+- Recommend that you use webkit for your browser
+
+Build libraries of the patterns and components you are designing
+- Will help in testing
+- Takes time to flip through all pages of a site/app
+- A single page that has all those components
+
+Consistency:
+- Familiarity breeds usability:
+  - Cross resolution consistency
+
+
+## Wrapping up:
+
+- Mobile first process
+- Performance as a feature
+- The server is our friend
+- Modular content systems
+- Content and functional priority
