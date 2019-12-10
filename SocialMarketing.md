@@ -210,3 +210,34 @@ PERFECT EXAMPLE YouTube Custom Thumbnail Image:
 
 ## Ultimate FB Page guide:
 
+1. Create a personal FB user profile (with your name)
+2. Create a businesss FB page (with brand/business name)
+  - Edit this under fb-page -> About tab
+
+> TIP!
+> Username is important since it appears as your custom Facebook your URL or “vanity name”. EX: https://www.facebook.com/coursenvy
+> Use the same name as you've used in all other areas you market or have SN profiles.
+
+3. Invite people to like your page by either
+ - Inviting your own Friends/family
+ - (Paying) Creating an add using `ENGAGEMENT` marketing, then selecting `PAGE LIKES` option.
+ 
+4. After 25 likes you can change your custom FB-url
+ - You can only do this once without sending an request to FB.
+ - This of it as changing your name.
+ 
+5. Optimize your FB page images
+ - Create high quality images
+ - Ensure you are using __correct image sizes__!
+ - Find all info on correct image sizes here: https://www.coursenvy.com/social-media-image-sizes
+ 
+6. FB Image Creation tool
+ - (Canva)[http://canva.com]
+  - Use free templates/or create from scratch
+  - (See tutorials here)[https://designschool.canva.com/tutorials]
+  
+ 
+
+
+  
+
