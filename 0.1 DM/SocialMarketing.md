@@ -208,21 +208,45 @@ Video “Custom Thumbnail” image size
 PERFECT EXAMPLE YouTube Custom Thumbnail Image: 
 - (with bright color and value proposition text)[https://www.coursenvy.com/social-media-image-sizes]
 
+
+## Facebook Page
+
+For businesses, brands and organizations to share their stories and connect with people.
+
+### Do i need a FB page?
+
+__YES__
+
+- Gives your business a voice.
+- Helps build reputation
+- Reach new customers and stay connected.
+- Get instant feedback from your customers.
+
+Customize pages by 
+ - Posting stories, 
+ - Hosting events, 
+ - Adding apps,
+ - Polling your following,
+ - and much more!
+ 
+ Most importantly!
+ People who like your page can get your page updates in their News feed.
+ 
 ## Ultimate FB Page guide:
 
 1. Create a personal FB user profile (with your name)
 2. Create a businesss FB page (with brand/business name)
   - Edit this under fb-page -> About tab
 
-> TIP!
+> NB!
 > Username is important since it appears as your custom Facebook your URL or “vanity name”. EX: https://www.facebook.com/coursenvy
-> Use the same name as you've used in all other areas you market or have SN profiles.
+> Use __the same name__ as you've used in all other areas you market or have SN profiles.
 
 3. Invite people to like your page by either
  - Inviting your own Friends/family
  - (Paying) Creating an add using `ENGAGEMENT` marketing, then selecting `PAGE LIKES` option.
  
-4. After 25 likes you can change your custom FB-url
+4. After you have 25 likes, you can change your custom FB-url
  - You can only do this once without sending an request to FB.
  - This of it as changing your name.
  
@@ -231,12 +255,31 @@ PERFECT EXAMPLE YouTube Custom Thumbnail Image:
  - Ensure you are using __correct image sizes__!
  - Find all info on correct image sizes here: https://www.coursenvy.com/social-media-image-sizes
  
-6. FB Image Creation tool
- - (Canva)[http://canva.com]
-  - Use free templates/or create from scratch
-  - (See tutorials here)[https://designschool.canva.com/tutorials]
+  | FB Image Creation tool
+   - (Canva)[http://canva.com]
+    - Use free templates/or create from scratch
+    - (See tutorials here)[https://designschool.canva.com/tutorials]
   
- 
+6. Facebook Page Short description
+ - First 156 characters appear in Google Search results as your meta description!
+ - VERY IMPORTANT: That you describe your business, and make sure to include 2-3 relevant, highly searched keywords __AND__ your domain name!
+
+> Example:
+> Want to learn a new skill? Searching for the BEST online courses? Our mission at __Cousenvy__ is to promote...
+
+__TOP 3 Keywords:__
+
+- Coursenvy 
+- Online Courses
+- Best Online Courses
+
+
+
+
+
+Read more from the Ultimate Facebook Page Guide PDF!
+
+
 
 
   
