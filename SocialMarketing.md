@@ -199,6 +199,10 @@ Pinterest Product Specs/Sizes: https://business.pinterest.com/en/Pinterest-produ
 
 __YT__
 
- YouTube “Channel Art” or cover image size is 2560 x 1440 pixels.
-  YouTube video “Custom Thumbnail” image sizes, use 1280 x 720 pixel images.
-PERFECT EXAMPLE YouTube Custom Thumbnail Image (with bright color and value proposition text): https://www.coursenvy.com/social-media-image-sizes
+“Channel Art” or cover image size
+- 2560 x 1440 pixels.
+
+Video “Custom Thumbnail” image size
+- 1280 x 720 pixel images.
+
+(PERFECT EXAMPLE YouTube Custom Thumbnail Image (with bright color and value proposition text))[https://www.coursenvy.com/social-media-image-sizes]
