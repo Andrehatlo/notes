@@ -191,11 +191,11 @@ __Pint__
 
 I love using TALL images that take up a good portion of users Pinterest feed.
 
-upload pins 600px wide (Pinterest recommends an image aspect ratio of 2:3 or 400 x 600 pixels).
+Upload pins 600px wide (Pinterest recommends an image aspect ratio of 2:3 or 400 x 600 pixels).
 
-Pinterest profile photo, upload images 165 x 165 pixels.
+Profile photo, upload images: 165 x 165 pixels.
 
-Pinterest Product Specs/Sizes: https://business.pinterest.com/en/Pinterest-product-specs
+Product Specs/Sizes: https://business.pinterest.com/en/Pinterest-product-specs
 
 __YT__
 
@@ -205,4 +205,8 @@ __YT__
 Video “Custom Thumbnail” image size
 - 1280 x 720 pixel images.
 
-(PERFECT EXAMPLE YouTube Custom Thumbnail Image (with bright color and value proposition text))[https://www.coursenvy.com/social-media-image-sizes]
+PERFECT EXAMPLE YouTube Custom Thumbnail Image: 
+- (with bright color and value proposition text)[https://www.coursenvy.com/social-media-image-sizes]
+
+## Ultimate FB Page guide:
+
