@@ -63,17 +63,56 @@ Do one of these
 
 Notice the words on the products around you, the so called branding, like when you see Nike, its 'Just do it'.
 
-1. Google AutoComplete:
+Google/Amazon AutoComplete:
 - Put your first keyword in, ex: `Lampe` 
 - See what you get back from google autocomplete
 - If example: `lampe egypt` was in the list, this would be a good sign. (meaning alot of people are searching this).
+- These keywords you find we can use in articles/blog posts at our website to make customers come to us `organically`!
+
+### Keyword Niches #1 Buyers:
+
+How do buyers search when looking to buy a product?
+
+- Best (Top, Top rated, new, etc.) <`keyword`>
+
+- <`keyword`> for woman (moms, men, kids, dogs, hobby, hikers, etc)
+
+- <`keyword`> reviews
+
+- Where to buy (Buy) <`keyword`>
+
+- Cheap (lowerst price, discount, deals, luxury, expensive) <`keyword`>
+
+- <`keyword`> on sale (coupon code, for sale, promo, promo code, special)
+
+- <`keyword`> under $xxx
+
+- <`keyword`> VS <`keyword`>
+
+This way we can make a `long tail keyword` that customers will search for.
 
 
+### Keyword Niches #1 Info seekers:
 
+How do buyers search when looking to research a product?
 
+- How to (Guide to, How to do) <`keyword`>
 
+- Easy <`keyword`>
 
+- Top 10 (Top X, best X) <`keyword`>
 
+- <`keyword`> tutorial (training, course, how to, guide, instuctions)
+
+- DIY <`keyword`>
+
+- <`keyword`> VS <`keyword`>
+
+- Easy (eliminate, Get rid of, Prevent, Cure) <`keyword`>
+
+- Compare (Comparison) <`keyword`>
+
+- <`keyword`> reddit
 
 
 
