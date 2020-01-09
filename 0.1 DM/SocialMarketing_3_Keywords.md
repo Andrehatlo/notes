@@ -122,7 +122,7 @@ __This is something that is very important!__
 Long tail pro is a feature that searches for the price of your keywords and you competition. It will also find other keywords you might like.
 
 What does Long tail mean?
-`Long tail keywords are keywords with 3 words or more`
+`Long tail keywords are keywords with 2-3 words and more`
 
 
 ### Step #4: Pick winning keywords:
@@ -142,14 +142,95 @@ __Keywords competativeness__
   - Higher numbers indicate a higher level of keyword difficulty
   
 >> Target an Avg KC of __40__ and below (__less than 30__ is optimal)
+>> He uses Long Tail Platinum (long tail pro) to find the __Average KC__.
 
+Long tail platinum optimal KC process:
+1. Sort by `Avg. KC` 
+2. Then look at keyowrds under 40 Avg KC
+  - These keywords can be used to create blog posts to attract more free customers
+  - For example: `meal planner printable` keyword, 
+    - Create a free meal planner template
+    - Create a blog post about it.
+3. Look at the price/volume
+4. Buy adds on this keyword and integrate it into you site.
 
+### Youtube Search Suggest
 
+- Type your main topic into YouTube.com search bar.
+- Write down all these suggested keywords.
 
+Example: Egyptiske lamper / Egyptian lamps
 
+__Add a asterisk before your main keyword! `*`__
 
+This adds suggested words __in front of your main keyword__!
 
+### Google Search Suggest
 
+- Type your main topic into google.com search bar.
+- Write down all these suggested keywords.
+
+Example: Egyptiske lamper / Egyptian lamps
+
+## GoogleAds: Google Keyord planner
+
+__Create a free account__
+ads.google.com -> create ads campaign -> add billing info -> pause campaign -> free account!
+
+- Go to Tools and settings
+- Under planning, click Keyword Planner
+
+Use keyword planner to: 
+  1. Search for more keywords (Discover)
+  2. Look at monthly search volume (Forecast).
+  
+__Should be used daily__
+
+### Forecast
+
+__What does Forecast do?__
+
+You put in a keyword, and google tells you:
+  - How many monthly searches it has.
+  - The competition.
+  - The bid (for ads) on the keyword 
+
+### Discover
+
+__What does Discover do?__
+
+Lets you Discover new keywords 
+  - Derived from a keyword 
+  - Derived from a competitors website
+  
+__Start with keywords__
+
+- Enter the keywords you would like
+- google returns similar keywords you can use
+
+__ Start with a website__
+
+- Enter a competitors website url
+- Google returns a list of keywords derived from their SEO
+
+## Use keywords in your Facebook Page Description !IMPORTANT
+
+- Sprinkle keywords found from __Google Keyword Planner__ into your Facebook page description. (Describe your services/product)
+- Make the 156 character descripotion make sense __WHILE__ including 3-4 relevant keywords!
+
+__IMPORTANT! NOTICE!!__
+- Your Facebook page __ABOUT__ description is actually your Google search "meta description". That means when people search for keywords similar to your prioduct, they will be more likely to find you until your brand name has most relevance.
+  
+- Continue to use keywords in Facebook posts as they get crawled and appear in Google and Facebook searches too!
+
+## What makes this Facebook Page Awesome?
+
+Check you courseenvy.com/best-facebook-pages
+
+- When landing on the page you know exactly what it is about
+  - Coverimage relevance (Lamper/belysning/egyptisk/handlaget/etc)
+  - Logo description (Skjønner du hva produktet er utifra logoen?)
+  - 
 
 
 
