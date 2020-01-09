@@ -49,7 +49,7 @@ Start with the
 
 This is the best way to generate keywords:
 
-Do one of these
+__Do one of these:__
 - Search niche forums
 - Browse a library 
 - Test Google AutoComplete searches with different keywords 
@@ -69,9 +69,11 @@ Google/Amazon AutoComplete:
 - If example: `lampe egypt` was in the list, this would be a good sign. (meaning alot of people are searching this).
 - These keywords you find we can use in articles/blog posts at our website to make customers come to us `organically`!
 
-### Keyword Niches #1 Buyers:
+### Keyword Niches 
 
-How do buyers search when looking to buy a product?
+#### #1 Buyers:
+
+How do buyers search when looking to __buy__ a product?
 
 - Best (Top, Top rated, new, etc.) <`keyword`>
 
@@ -92,9 +94,9 @@ How do buyers search when looking to buy a product?
 This way we can make a `long tail keyword` that customers will search for.
 
 
-### Keyword Niches #1 Info seekers:
+#### #1 Info seekers:
 
-How do buyers search when looking to research a product?
+How do buyers search when looking to __research__ a product?
 
 - How to (Guide to, How to do) <`keyword`>
 
@@ -112,7 +114,35 @@ How do buyers search when looking to research a product?
 
 - Compare (Comparison) <`keyword`>
 
-- <`keyword`> reddit
+
+#### Step #3: Use `Long tail pro` for keyword comparison 
+
+__This is something that is very important!__
+
+Long tail pro is a feature that searches for the price of your keywords and you competition. It will also find other keywords you might like.
+
+What does Long tail mean?
+`Long tail keywords are keywords with 3 words or more`
+
+
+### Step #4: Pick winning keywords:
+
+My first priority when picking a keyword i want to rank for is:
+
+__Keywords competativeness__
+
+- A number from 0 to 100
+- Measures how difficult it is to rank on the first page of google for that specific keyword.
+- Calculated using: 
+  - `Page title` 
+  - `Majestic Trust Flow` and `Citation Flow`
+  - `Links` 
+  - `Site age`
+  - and other factors of the top 10 pages found in Google result for the keyword you searched.
+  - Higher numbers indicate a higher level of keyword difficulty
+  
+>> Target an Avg KC of __40__ and below (__less than 30__ is optimal)
+
 
 
 
