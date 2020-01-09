@@ -225,12 +225,26 @@ __IMPORTANT! NOTICE!!__
 
 ## What makes this Facebook Page Awesome?
 
-Check you courseenvy.com/best-facebook-pages
+Check courseenvy.com/best-facebook-pages and copy them
 
 - When landing on the page you know exactly what it is about
-  - Coverimage relevance (Lamper/belysning/egyptisk/handlaget/etc)
-  - Logo description (Skjønner du hva produktet er utifra logoen?)
-  - 
+  - Coverimage: relevance (Lamper/belysning/egyptisk/handlaget/etc)
+  - Profile image: Logo description (Skjønner du hva produktet er utifra logoen?)
+  - Call to action button: What is it? Shop now? Email list etc?
+  - Posts: Engaging customers/Trending topics/customers LOVE contests/Add visitor posts
+  
+How to find trending topics for FB posts?
+  - google.com/trends
+    - Use these keywords in your posts
+  - Hashtags.com
+    - Choose trending hashtags and use it in your posts
+    
+
+
+  
+  
+  
+  
 
 
 
