@@ -1,7 +1,12 @@
 
 https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store
+https://www.youtube.com/watch?v=ZffzA_G7fKQ
 
-# Seo on shopify
+# Keywords are the most important factor
+
+Before starting a ecommerce site, you should have an idea of what type of keywords you are relating to it.
+One of these keywords should be in your domain name, for example if your selling shoes, `super-shoes.com`.
+This will rank you high on google in that category, thus if you dont have it.
 
 ## Keywords
 
@@ -14,9 +19,21 @@ Starting out with the keyword planner, crawl your or a competitors website to fe
 
 Use the additional services to generate more keywords that have less competition.
 
-## Product
+### LSI
 
-### Title
+A mathematical method used by Google to detemine the relationship between terms and concepts in content.
+The most common words and phrases are identified as the keywords of the crawled webpage.
+It looks for synonyms related to the title of your page.
+
+> Example:
+> If your page title is "Classic Cars", the search engine would expect to find words relating to that subject in the content of the page.
+> It would then look for words like: "collectors", "automobile", "bentley", "austin" and "car auctions".
+
+##  Seo on shopify
+
+### Product
+
+#### Title
 
 Each product has a title and cescription.
 To look professional keep the title at a 5 word max.
@@ -26,7 +43,7 @@ So instead of `Copper lamp` or `Ceiling lamp`
   - A good title will for example look like this:
     - `Handmade Marokkan Copper Ceiling Lamp`
     
-### Description
+#### Description
 
 The description is the number 1 factor for ranking as number 1 on Google.
 The last thing you want to do is keep a description from a warehouse, it will not get you any results.
@@ -57,9 +74,9 @@ Paragraph 2 example:
 Vi vet at kobber kan koste litt mer, men vi velger å levere edelt metall som har blit glemt over tid. Et metal brukt siden tidenens morgen som gir liv til hjemmet igjen. Feng shui ditt hjem med et naturlig produkt som er skapt for å fange blikket og sette preg på markokkansk design og stil.
 
   
-## Product SEO
+### Product SEO
 
-### Title
+#### Page Title
 
 The title can include up to 70 characters.
 Use up all the characters for it.
@@ -67,7 +84,18 @@ Use up all the characters for it.
 1. Count: 
   - The title is `Handmade Marokkan Copper Ceiling Lamp`, which is 37 characters.
 2. Find related keywords:
-  - Go to google and type in `Marokkan lamp` and see 
+  - Go to google and type in `Marokkan lamp` and find relevant keywords (with a good mothly average searches) to add to your title.
+  - Add keywords until you reach 70 characters
+3. To make your listing look professional, add a `<product title + related keywords | <Title of store>` at the end of the page seo title
 
+#### Meta description
+
+1. Clean up the description 
+  - Describe more features that the product has
+2. Stay inside 320 characters so it looks clean
+
+#### Url handle
+
+1. Make sure the url has the title of the product and some relateable keywords.
 
 
