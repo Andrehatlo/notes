@@ -99,3 +99,102 @@ Use up all the characters for it.
 1. Make sure the url has the title of the product and some relateable keywords.
 
 
+# Advanced Meta 
+
+### Write Meta titles and descriptions like a champ!
+
+https://yoast.com/meta-descriptions/
+
+
+## Title
+
+How:
+
+- Keep the `Title` clean and readable
+- Make sure its unique to your other meta titles.
+- People read (Mostly) left to right, then look up and down.
+  - Catch the consumer with the first keyword.
+- It should explain whats behind the link
+- Include your brandname/website name in this type of format `<Meta Title> | <Brandname/Website>` 
+
+  
+## Description  
+
+#### You want clicks, right? Not views
+
+##### How to be unique and interesting?
+
+__0. Focus on Customer Experience first!__
+  - DONT focus all on character count.
+  - Stay within the range of 155+ characters. 
+
+__1. Use an active voice__:
+  - Get motivated to design....
+  - Why not try a...
+  - If you dont have this then...
+
+__2. Include a `Call to action`:__
+
+  - Find out more here!
+  - Learn more here!
+  - Buy it now!
+  
+__3. Containing a focus keyword__
+
+If the search keyword matches a part of the text in the meta description, Google will be more inclined to use that meta description and highlight it in the search results. This will make your site even more inviting.
+  
+__4. Show specifications__
+
+If your product is tech it can be a good idea to include manufacturer, SKU, etc. Since if your customer is specifically looking for that product, chances are you wont have to convince them. The presence of information like that will trigger the __click__.
+
+__5. Matchinig the Content__
+
+!IMPORTANT
+
+Google will penalize sites that have meta descriptions that trick visitors into clicking.
+Always match the content behind the meta description.
+
+__6. Unique__
+If you have the same meta description as all other pages, or you own other pages, you'l be better of leaving it blank and let google choose a snippet on your page.
+
+### Examples of GOOD meta descriptions:
+
+#### The right length:
+
+__Puppy Training Schedule: What to Teach Puppies, and When__
+url.com/Dog_Training
+A month by month training schedule for what to teach your new puppy, including the most important lessons puppies should learn.
+
+- Within 155 characters.
+
+#### Active voice
+
+__Decorating Ideas - Home Decor Ideas and Tips - Good Housekeeping__
+url.com/home/decorating-ideas
+Get motivated to design the home of your dreams with our inspiring looks and practical decorating tips.
+
+- Active, motivating and addressing YOU directly. And you'll know what you'll get!
+
+#### Including a call-to-action
+
+__robots.txt: the ultimate guide ¬ Yoast__
+url.com/SEO_blog/Crawl_directives
+The robots.txt file is a file you can use to tell search engines where they can and cannot go on your site. Learn how to use it to your advantage!
+
+- `Learn how to use it to your advantage`; that’s the call-to-action!
+
+#### Containing the focus keyword
+
+> __The Oscars 2018 | 90th Academy Awards__
+> url.go.com/
+> Get the latest news about the __2018 Oscars__, including nominations, winners, predictions and red carpet fashion at 90th __Academy Awards Oscar__.com.
+
+- The focus keyword and variations: note that Google sometimes highlights synonyms like [Academy Awards] as well when searching for [Oscars]. This will make your search result stand out even more.
+
+
+
+
+
+
+
+
