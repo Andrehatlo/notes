@@ -161,32 +161,40 @@ If you have the same meta description as all other pages, or you own other pages
 
 #### The right length:
 
-__Puppy Training Schedule: What to Teach Puppies, and When__
-url.com/Dog_Training
-A month by month training schedule for what to teach your new puppy, including the most important lessons puppies should learn.
+>__Puppy Training Schedule: What to Teach Puppies, and When__
+
+> url.com/Dog_Training
+
+> A month by month training schedule for what to teach your new puppy, including the most important lessons puppies should learn.
 
 - Within 155 characters.
 
 #### Active voice
 
-__Decorating Ideas - Home Decor Ideas and Tips - Good Housekeeping__
-url.com/home/decorating-ideas
-Get motivated to design the home of your dreams with our inspiring looks and practical decorating tips.
+> __Decorating Ideas - Home Decor Ideas and Tips - Good Housekeeping__
+
+> url.com/home/decorating-ideas
+
+> Get motivated to design the home of your dreams with our inspiring looks and practical decorating tips.
 
 - Active, motivating and addressing YOU directly. And you'll know what you'll get!
 
 #### Including a call-to-action
 
-__robots.txt: the ultimate guide ¬ Yoast__
-url.com/SEO_blog/Crawl_directives
-The robots.txt file is a file you can use to tell search engines where they can and cannot go on your site. Learn how to use it to your advantage!
+> __robots.txt: the ultimate guide ¬ Yoast__
+
+> url.com/SEO_blog/Crawl_directives
+
+> The robots.txt file is a file you can use to tell search engines where they can and cannot go on your site. Learn how to use it to your advantage!
 
 - `Learn how to use it to your advantage`; that’s the call-to-action!
 
 #### Containing the focus keyword
 
 > __The Oscars 2018 | 90th Academy Awards__
+
 > url.go.com/
+
 > Get the latest news about the __2018 Oscars__, including nominations, winners, predictions and red carpet fashion at 90th __Academy Awards Oscar__.com.
 
 - The focus keyword and variations: note that Google sometimes highlights synonyms like [Academy Awards] as well when searching for [Oscars]. This will make your search result stand out even more.
