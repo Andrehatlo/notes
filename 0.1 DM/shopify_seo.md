@@ -422,6 +422,42 @@ Remember this is important for new sites:
 
 > Automatically translate site with WEGLOT plugin. Works with all ecommerce systems.
 
+### Use Google Analytics to check for pages with a high bounce rate
+
+Atferd -> Nettstedinnhold -> Alle sider:
+
+Filtrer ved "Sekundær dimensjon" -> "Exit page/Utgangside"
+
+Now look at which page has the high the "bounce rate/fluktfrekvens" or low "Avg time on page"
+- Do something to that page to keep them there. 
+
+#### SEO KeywordOptimizer tool for on-page text
+optimization
+
+Free 7 day trial: https://textoptimizer.com/?r2d2
+
+- Go to textoptimizer.com
+- enter page url
+- let them help you
+
+#### SEOQuake SEO Chrome plugin to research
+competition
+
+#### Competitor link research with SerpStat SEO
+tool
+
+Student coupon: for_students
+
+#### Wordtracker for free SEO tools/features
+
+https://www.wordtracker.com/ is a good keyword tool with many free features.
+
+
+
+
+
+
+
 
 
 
