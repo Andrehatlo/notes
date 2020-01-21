@@ -201,6 +201,45 @@ If you have the same meta description as all other pages, or you own other pages
 
 
 
+## SEO 2020
+
+Update in June 2019 set a trend for the rest of the year and 2020:
+- Mobile first indexing - make sure you are mobile optimized
+- Relevance and topic building up over time + Topic Authority + Writing regular QUALITY content within a certain topic
+- Answer box in google
+- HTTPS affects ranking
+
+Still __VERY__ important:
+- Brand mentions, citations, links, social sharing
+- No more outsourcing low quality content
+- No more selling everything (one product, one niche)
+
+Content Checklist (article)
+- Is information trustworthy?
+  - Does it sound written by expert or good enthusuast?
+ - Does site have similar articles with keyword variations?
+  - keyword variations on competitive sites? reshuffling keywords and re copy and copy pasting the content?
+ - Does the page provide substantial value and more insight compared to other pages in search result?
+  - Is it an article that stands out in search results?
+- Is it interessting, is it well written?
+ 
+#### Backlings matter
+
+Because of the ways sites cut corners since SEO was started, google needed a way to put trust into sites that was ranked high.
+This is done through the `Authority` trust system they have implemented.
+
+An authority is a rank that google bases the site on with these metrics:
+- Quality content
+- Backlinks from other sites with an high autority
+- Backlinks from social media platform that shows that the content is high quality (since it is getting shared)
+
+## Three Parts to SEO
+
+1. Keyword research
+2. Placing keywords on site
+3. Ranking higher and higher
+
+
 
 
 
