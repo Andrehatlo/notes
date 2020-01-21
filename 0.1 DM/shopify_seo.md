@@ -240,6 +240,124 @@ An authority is a rank that google bases the site on with these metrics:
 3. Ranking higher and higher
 
 
+### Google Keyword planner:
+
+#### Checklist/Tips:
+- Look for keywords that convert to buys
+  - What is a lamp? -> These are not shopping
+  - lamp for bedrom -> These may be shopping
+  - buy copper lamp -> These are definately shopping
+- Long tail keywords are easier to rank on
+  - This means keywords that are on 3 or more words, like examples above.
+- Use relevant keywords for products you actually sell
+- Search demand - Bigger is better but it means more competition
+- Is it too competitive to rank for?
+- Is it needed or lucrative?
+- Jokes/humor content - lots of views but no sales/revenue
+
+
+#### Three types of searches:
+1. Branded, (name or website) - customer who know you looking you up
+2. Information: What is a Lamp?
+3. Commercial: Buy a lamp
+
+__Save the best keywords in a excel document__
+
+#### Long tail vs Short tail SEO keywords
+
+- Longtail keyword for keyword `Business plan`:
+  - How to write a business plan
+  - How to write a business plan for a cleaning business
+- More specific, longer searches and narrow competition.
+- First rank for long-tail keywords, and then do short-tail
+- This is the same in all search engines, same process different competition.
+
+- Longtail keyword for keyword `Facebook Marketing`:
+  - Facebook marketing for business 
+  - Facebook marketing for cleaning business
+
+> Better to use long tail with less searches to get more traffic, than shorter with more traffic and higher competition where you get less traffic.
+
+### Keyword excercise to create unique keywords
+
+Look for akward __HUMAN__ phrasing by talking to PEOPLE.
+
+- Tools give generic answers
+- People give us more keyword variations and ideas
+- Do customer support, listen to how client and newbies phrase things
+- Example: 
+  - *SEO Marketing" vs "How to get Google Traffic?"
+  - "Arthritis" vs "Knee Pain"
+
+> Be creative, talk to people. Ask what they would search for. __THEN__ use the best keywords in the keyword tools to give more keywords in that category.
+> Dont worry about plural or non-plural, search engines are smart enough to get it.
+
+#### Strategies:
+
+1. Local businesses: City name, zip, nearby towns, state, neighborhoods
+  - Example: Doctor in downtown San Francisco
+2. Problem searches:
+  - Example: "Water not running"
+3. Solution searches:
+  - Example: "Fix plumbing"
+4. Look for synonyms - Thesaurus.com
+5. Talk to customers (customer support and sales)
+  - Customers phrase things differently, listen to their terms
+6. Client emails for how they write things
+7. Keywords on competitor blogs, websites, and product listings.
+8. Search engine auto-suggestions
+9. Abbreviations and acronyms (NY, NYC, New York etc)
+10. Related searches at the bottom of results
+11. Keyword tools
+12. Stemming: Play, playing, playful, player
+13. When the customer qualifies themselves
+  - "Business plan for a productivity mobile app"
+  
+#### Advanced keyword targeting:
+
+- When writing an article/description etc:
+  - Go for the juicy keyword
+  - But also use the long tail versions you want to rank for to also get traffic incase you dont rank.
+  
+##### Page engagement gives a push on yourt Google rank
+- Engagement through:
+  - Social media mentions
+  - Youtube video backlinks
+  - etc
+ 
+#### Keywords Density tool
+
+tools.seobook.com/general/keyword-density
+
+Check the density of your keywords on a website.
+Compare yourself to your competitor website by increasing density in your article.
+
+Returns 3 columns, with keywords and keyword phrases:
+- First column: Single keyword density -> 5% is perfect, 7% is ok, dont go over 10% 
+- Second column: 2 Word Phrase density -> Stay under 4-5%
+- Third column: 3 Word Phrase density  -> Stay under 4-5%
+
+Dont get penilized for keyword stuffing by having a high keyword density.
+- This happens when your text is not flowing naturally, so keep in mind that writing a good article needs to be natural with the keyword.
+
+
+#### Structure Keyword Research
+
+|Keyword|Target SearchEngine|What you need to do|Current Ranking|History of Actions|
+| ------------- |:-------------:|:-------------:|:-------------:| -----:|
+|business plan| YouTube, Android, Udemy, Amazon|Video, app, cource, book| #0| Did something |
+|business ideas| YouTube, Android, Udemy, Amazon|Video, app, cource, book| #0| did something else|
+
+
+
+
+
+
+
+
+
+  
+
 
 
 
