@@ -349,6 +349,78 @@ Dont get penilized for keyword stuffing by having a high keyword density.
 |business ideas| YouTube, Android, Udemy, Amazon|Video, app, cource, book| #0| did something else|
 
 
+#### HOME Keyword Placement Checklist
+
+1. Meta title tag
+2. Meta description tag
+3. Home page `<h1>` tag - in `<h2>` tag aswell as `<h3>`... etc if you have 
+4. Alt tags for images
+5. Repeat most important keywords 4-7% through the body.
+6. Repeat secondary keywords 1-5%
+
+#### NON-HOME Keyword Placement Checklist (Blog posts etc)
+
+1. The same as on HOME page
+2. Keyword in URL
+3. More H2 and h3 tags
+4. More flexible on text, phrasing and how many paragraphs
+
+
+#### Keyword Organization Worksheet for SEO
+
+What is the main thing you are promoting?
+=.....
+
+Your direct sales keywords (Keywords that bring buyers):
+1. (.................)
+2. (.................)
+3. (.................)
+4. (.................)
+5. (.................)
+
+For each keyword, can you rank for in on Google search, YT, Amazon search, other search?
+
+Your content keywords and how-to articles and blog posts:
+1. (.................)
+2. (.................)
+3. (.................)
+4. (.................)
+5. (.................)
+
+
+For each keyword, can you rank for in on Google search, YT, Amazon search, other search?
+
+
+#### Keyword Test
+
+1. What is the buyers intent?
+2. Where can we rank for it?
+3. How should we prioritize ranking for this keyword?
+
+Example: Kobber lampe
+1. Kjøpe en, finne og se utvalg
+2. Google
+3. Write blog posts on kobber health, kobber history, kobber style etc.
+  - Do a video on how to clean a kobber lamp
+  - Do a video on how to mount out kobber lamps
+
+
+#### SEO for new websites
+
+Main issue: Ranking is too slow
+
+Solutions:
+  - Do SEO on other search engine or sites
+  - Long tail keyword research
+  - Dont over rely on SEO early
+  
+Remember this is important for new sites:
+  - Get brand mentions, on social media etc
+  - Get citations, other people referencing your site and brand
+  - Get links, from other sites (backlinks are good to rank)
+  - Build good content and authority
+
+> Automatically translate site with WEGLOT plugin. Works with all ecommerce systems.
 
 
 
