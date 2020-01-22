@@ -464,7 +464,9 @@ Goal: Target Long-tail SEO keywords.
 Schedule: Weekly, bi-weekly, or monthly
 Instead: youtube video transrcribed can be easier to do and achieve the same results.
 
-#### Is your site set up for SEO?
+===
+
+# Is your site set up for SEO?
 
 Crawlable and indexable?
 
@@ -489,10 +491,57 @@ Meta description and meta title is the information that IS NOT displayed on your
 - Meta description (160 characters)
 - Url redirect (google prefers short urls)
 
+### Gain rank by a `Cornerstone SEO page` 
 
+When theres high competition any old webpage can compete, so what do you do?
 
+__Create a cornerstone page:__
+- Page with THE BEST information on the topic.
+  - Covers the topic in the most authoritive way.
+  - Alot of other different content on topic. 
+  - Covers it from alot of different angles.
+  
+Makes users stay longer, which gives Google a postive signal to rank you higher.
 
+#### Structuring a cornerstone page:
 
+- `<h1>` tag: 1
+- `<h2>` tag: 5-10
+- Content must be:
+  - Very Insightfull
+  - Good grammar/spelling
+  - Good content
+  
+#### Interlinking your pages
+
+Getting backlinks is not easy, but you can get a boost from google just by interlinking your site.
+Which means linking to other articles in your articles, where you strategically set the anchor text to be some keyword you want to rank for (should have something to do with the content behind it).
+
+#### Advanced Interlinking:
+
+Include a table of content for your articles.
+Simple do something like this:
+
+```html
+<li><a href="www.orientdesign.no/blog/articles/real-copper/#content_1">What is Copper?</a></li>
+<li><a href="www.orientdesign.no/blog/articles/real-copper/#content_2">Why does Copper oxidize?</a></li>
+<li><a href="www.orientdesign.no/blog/articles/real-copper/#content_3">3 Proven health benefits you get from Copper</a></li>
+
+<a name="content_1"></a></p>
+
+<h2> What is Copper? </h2>
+//... content 1
+
+<a name="content_2"></a></p>
+
+<h2> Why does copper oxidize</h2>
+//... content 2
+
+<a name="content_3"></a></p>
+
+<h2> 3 Proven health benefits you get from Copper? </h2>
+//... content 3
+```
 
 
 
