@@ -520,6 +520,8 @@ Which means linking to other articles in your articles, where you strategically 
 #### Advanced Interlinking:
 
 Include a table of content for your articles.
+This will boost your position and give you an oppertunity to add your focus/long tail keyword.
+
 Simple do something like this:
 
 ```html
@@ -543,15 +545,135 @@ Simple do something like this:
 //... content 3
 ```
 
+#### Add link tooltip
+
+Add keywords to your title attribute of your links.
+
+```
+<a title="Cpper lamps" href="www.orientdesign.no/products">
+```
+
+#### Image Alt tag tooltip:
+
+Add keywords in your `<img alt="keywords">` attribute.
+
+#### How long should a article be for SEO?
+
+Blog post:
+Niche post = 300-500 words
+In competitive niche = 1000-5000 words
+
+Product sales page: 
+- Full and interesting product description.
+
+Home page:
+- As long as it tells the story about the business
+  - Little bit about you
+  - Talk about your services 
+  - Explain who your ideal customer is and isnt
+  - Use your keywords
+  - Remember: Good is better than long
+
+##### Best of both words: Testing Strategy
+
+1. Start with few hundred words
+2. See where it ranks
+3. Every few weeks, add photos, text, video embeds, links
+
+If you rank upwards, keep going. If its stale, change.
+Over time, build it up, dont over-invest into a page at once.
+
+#### Role of Content For SEO
+
+- Useful content - no shallow articles
+  - They need to be good and USEFULL
+  - Google likes usefull content
+    - This improved my life type of content
+- Regular publishing schedule
+- Improve and update old content
+- Dont drive yourself crazy
+- Dont compromize speed for quality
 
 
+##### How to improve your content?
 
+MarketMuse.com -> Content AI platform
+- Improve the comprehensiveness of your content by adding new sections about these subtopics or find natural places in your existing copy to expand on them.
 
+- Add more depth to your content by answering questions that are related to your topic. Check what people are asking about your topic on google. A great way to do this is answering questions that keep your audience up at night, this will engage your audience to share your content.
 
-  
+#### Make a sharp Favicon - That stands OUT!
 
+Most favicons are boring, unsharp and bland.
+Make a favicon that stands out colorwize and is sharp so people want to click it.
+Go to fivver and find a couple of people to help you make one.
 
+### Advanced SEO (Hack) With micro product data
 
+- Show data like rating in search results to build trust with your customer.
 
+#### Embedded Review Stars
+
+- Gain more space in the search engine results.
+
+Auto generate HTML by going to the https://www.google.com/webmasters/markup-helper/u/0/?hl=en
+Then click your way through and copy paste the generated html into your website.
+
+Add this to hack rating at the bottom of your page:
+```
+Author:
+Publisher:
+Rating value: 4.5 count: 140 
+In Language:
+Product Dimensions:
+Date Published:
+//etc
+```
+
+Highlight the areas you want to aggregate html out of, assign the values to the right attributes and copy/paste to your site.
+
+__Alternatively:__ 
+Add the attribute `itemprop="image/title/rating/etc` to the tags you are fetching information from to automate the process for new products.
+
+#### Enticing meta tag description to increase Google SEO SERP clickthrough!
+
+__First-time marketer posts:__
+- Watch my video.
+- Read my blog post.
+- Buy this thing.
+
+__13 copywriting improvements:__
+1) BENEFITS (not features)
+2) The word “you”     -> envokes alot in people
+3) Name-dropping / authority 
+4) Numbers
+5) Percentages        -> People find this interesting
+6) Time (now/today)   -> People find this interesting (do this today, until tommorow, for 10 days etc)
+7) Emotion-evoking words and topics (love/hate) - Spark emotion (Dont you hate when this happens | Dont you just love that feeling ..)
+8) Hot topics             -> Trending topics
+9) Ease                   -> Watch this easy video to do this
+10) Promise of success    -> A product that will guide you to success
+11) For audience, not you 
+12) New/different         -> Make something sound new/different is HUGE
+13) UNIQUENESS            -> Make something sound UNIQUE is HUGE
+
+__Standing out with uniqueness:__
+- Old: Watch my video!
+- New: See the hottest chocolate dish of __2020__ - chocolate spaghetti with mousse
+- New better: Hottest chocolate dish of __2020__ - chocolate spaghetti with mousse in 5 minutesrecipe by Michael Jodan
+
+__Clickbait:__
+- Old: Read my blog post:
+- New: Read my blog post about Kim Kardashian’s shocking new fashion for Fall 2024
+- New better: Read my blog post about the Kim Kardashian’s shocking new fashion for Fall 2024 praised during New York Fashion Week
+
+__e-Commerce:__
+- Old: Buy this thing
+- New: Save 50% on your gas costs with this easy to install tire pressure meter.
+- New better: Save 50% on your gas costs with this easy to install tire pressure meter that you can install in 2 minutes - start saving 50% today!
+
+#### SEO is Not Just for Algorithms!
+- People have to like it too
+- Copywriting and sales copywriting
 
 
