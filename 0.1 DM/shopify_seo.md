@@ -452,7 +452,42 @@ Student coupon: for_students
 
 https://www.wordtracker.com/ is a good keyword tool with many free features.
 
+#### Should you have a blog?
 
+Yes, content is king, but remember to update with new articles. If you stop and dont update you loose credebility.
+
+- Content should be informational, not to drive sales.
+- Focus on lucrative pages first, like your home page.
+- Hard to buy content, hard to write? for some
+
+Goal: Target Long-tail SEO keywords.
+Schedule: Weekly, bi-weekly, or monthly
+Instead: youtube video transrcribed can be easier to do and achieve the same results.
+
+#### Is your site set up for SEO?
+
+Crawlable and indexable?
+
+## On Page SEO (!important)
+
+When you have the keyword you want to rank for, we call it the `Focus Keyword`.
+This keyword will have to be strategically placed through the page to rank high on Google.
+
+It has to be included in:
+- Article Heading
+- Page title
+- Page URL
+- Content -> Many times
+- Meta Description
+
+### Meta SEO
+
+Meta description and meta title is the information that IS NOT displayed on your webpage. Its something that is displayed for the search engines for your benefit. So instead of your page being displayed with lengthy sentances and titles that make less sence for the perticular search term, you can customize these titles and decriptions to get more traffic to your site.
+
+- Your focus keyword should be mentioned in:
+- Meta title (70 characters)
+- Meta description (160 characters)
+- Url redirect (google prefers short urls)
 
 
 
