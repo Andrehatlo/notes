@@ -676,4 +676,18 @@ __e-Commerce:__
 - People have to like it too
 - Copywriting and sales copywriting
 
+### Snippets:
+
+#### Rich Snippet:
+
+An enhanced organic search result. For example having review stars in your meta description field.
+
+#### Featured Snippet:
+
+An answer to a query that appears above the organic search results in __position zero__.
+
+
+
+
+
 
