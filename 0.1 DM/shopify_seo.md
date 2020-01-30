@@ -712,6 +712,19 @@ Go the www.schema.org -> Click the `Get started` link -> Choose microdata catego
 </div>
 ```
 
+__The more structured data you add, the higher probability it is that google ranks you up.__
+
+## Beyond SEO 
+
+### Recommendation algorithms
+
+Leverage recommendation engines to sell more products.
+
+
+
+
+
+
 
 
 
