@@ -686,7 +686,15 @@ An enhanced organic search result. For example having review stars in your meta 
 
 An answer to a query that appears above the organic search results in __position zero__.
 
-### 
+### Title tags in Anchor Links
+
+Add this to your links `<a href="link.com" title="your seo here">Link</a>`
+
+### Google Structured Data Markup Helper
+
+Go to https://www.google.com/webmasters/markup-helper/ -> Go through the steps by adding URL and highlighting the snippet info.
+
+
 
 
 
