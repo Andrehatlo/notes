@@ -694,6 +694,24 @@ Add this to your links `<a href="link.com" title="your seo here">Link</a>`
 
 Go to https://www.google.com/webmasters/markup-helper/ -> Go through the steps by adding URL and highlighting the snippet info.
 
+### Markup your content using __Microdata__
+
+Go the www.schema.org -> Click the `Get started` link -> Choose microdata category you would like to add -> Add to your HTML Liquid file
+
+```
+<div itemscope itemtype="http://schema.org/Product" ... >
+
+// Product Rating meta data
+<meta itemprop="bestRating" content="5" />
+<meta itemprop="ratingValue" content="3" />
+<meta itemprop="ratingCount" content="25" />
+
+// Product brand meta data
+<meta itemprop="brand" content="Orient Design"/>
+
+</div>
+```
+
 
 
 
