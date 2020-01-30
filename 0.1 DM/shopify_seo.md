@@ -263,7 +263,7 @@ An authority is a rank that google bases the site on with these metrics:
 
 __Save the best keywords in a excel document__
 
-#### Long tail vs Short tail SEO keywords
+### Long tail vs Short tail SEO keywords
 
 - Longtail keyword for keyword `Business plan`:
   - How to write a business plan
@@ -278,7 +278,7 @@ __Save the best keywords in a excel document__
 
 > Better to use long tail with less searches to get more traffic, than shorter with more traffic and higher competition where you get less traffic.
 
-### Keyword excercise to create unique keywords
+## Excercise to create unique keywords
 
 Look for akward __HUMAN__ phrasing by talking to PEOPLE.
 
@@ -292,7 +292,7 @@ Look for akward __HUMAN__ phrasing by talking to PEOPLE.
 > Be creative, talk to people. Ask what they would search for. __THEN__ use the best keywords in the keyword tools to give more keywords in that category.
 > Dont worry about plural or non-plural, search engines are smart enough to get it.
 
-#### Strategies:
+### Strategies:
 
 1. Local businesses: City name, zip, nearby towns, state, neighborhoods
   - Example: Doctor in downtown San Francisco
@@ -313,19 +313,19 @@ Look for akward __HUMAN__ phrasing by talking to PEOPLE.
 13. When the customer qualifies themselves
   - "Business plan for a productivity mobile app"
   
-#### Advanced keyword targeting:
+### Advanced keyword targeting:
 
 - When writing an article/description etc:
   - Go for the juicy keyword
   - But also use the long tail versions you want to rank for to also get traffic incase you dont rank.
   
-##### Page engagement gives a push on yourt Google rank
+#### Page engagement gives a push on yourt Google rank
 - Engagement through:
   - Social media mentions
   - Youtube video backlinks
   - etc
  
-#### Keywords Density tool
+### Keywords Density tool
 
 tools.seobook.com/general/keyword-density
 
@@ -341,7 +341,7 @@ Dont get penilized for keyword stuffing by having a high keyword density.
 - This happens when your text is not flowing naturally, so keep in mind that writing a good article needs to be natural with the keyword.
 
 
-#### Structure Keyword Research
+### Structure Keyword Research
 
 |Keyword|Target SearchEngine|What you need to do|Current Ranking|History of Actions|
 | ------------- |:-------------:|:-------------:|:-------------:| -----:|
@@ -349,7 +349,7 @@ Dont get penilized for keyword stuffing by having a high keyword density.
 |business ideas| YouTube, Android, Udemy, Amazon|Video, app, cource, book| #0| did something else|
 
 
-#### HOME Keyword Placement Checklist
+### HOME Keyword Placement Checklist
 
 1. Meta title tag
 2. Meta description tag
@@ -358,7 +358,7 @@ Dont get penilized for keyword stuffing by having a high keyword density.
 5. Repeat most important keywords 4-7% through the body.
 6. Repeat secondary keywords 1-5%
 
-#### NON-HOME Keyword Placement Checklist (Blog posts etc)
+### NON-HOME Keyword Placement Checklist (Blog posts etc)
 
 1. The same as on HOME page
 2. Keyword in URL
@@ -366,7 +366,7 @@ Dont get penilized for keyword stuffing by having a high keyword density.
 4. More flexible on text, phrasing and how many paragraphs
 
 
-#### Keyword Organization Worksheet for SEO
+### Keyword Organization Worksheet for SEO
 
 What is the main thing you are promoting?
 =.....
@@ -391,7 +391,7 @@ Your content keywords and how-to articles and blog posts:
 For each keyword, can you rank for in on Google search, YT, Amazon search, other search?
 
 
-#### Keyword Test
+### Keyword Test
 
 1. What is the buyers intent?
 2. Where can we rank for it?
@@ -405,7 +405,7 @@ Example: Kobber lampe
   - Do a video on how to mount out kobber lamps
 
 
-#### SEO for new websites
+## SEO for new websites
 
 Main issue: Ranking is too slow
 
@@ -422,7 +422,7 @@ Remember this is important for new sites:
 
 > Automatically translate site with WEGLOT plugin. Works with all ecommerce systems.
 
-### Use Google Analytics to check for pages with a high bounce rate
+## Use Google Analytics to check for pages with a high bounce rate
 
 Atferd -> Nettstedinnhold -> Alle sider:
 
@@ -431,7 +431,7 @@ Filtrer ved "Sekundær dimensjon" -> "Exit page/Utgangside"
 Now look at which page has the high the "bounce rate/fluktfrekvens" or low "Avg time on page"
 - Do something to that page to keep them there. 
 
-#### SEO KeywordOptimizer tool for on-page text
+### SEO KeywordOptimizer tool for on-page text
 optimization
 
 Free 7 day trial: https://textoptimizer.com/?r2d2
@@ -440,19 +440,19 @@ Free 7 day trial: https://textoptimizer.com/?r2d2
 - enter page url
 - let them help you
 
-#### SEOQuake SEO Chrome plugin to research
+### SEOQuake SEO Chrome plugin to research
 competition
 
-#### Competitor link research with SerpStat SEO
-tool
+### Competitor link research 
 
-Student coupon: for_students
+- With SerpStat SEO tool
+  - Student coupon: for_students
 
-#### Wordtracker for free SEO tools/features
+### Wordtracker for free SEO tools/features
 
 https://www.wordtracker.com/ is a good keyword tool with many free features.
 
-#### Should you have a blog?
+### Should you have a blog?
 
 Yes, content is king, but remember to update with new articles. If you stop and dont update you loose credebility.
 
@@ -466,11 +466,11 @@ Instead: youtube video transrcribed can be easier to do and achieve the same res
 
 ===
 
-# Is your site set up for SEO?
+# On Page SEO (!important)
+
+## Is your site set up for SEO?
 
 Crawlable and indexable?
-
-## On Page SEO (!important)
 
 When you have the keyword you want to rank for, we call it the `Focus Keyword`.
 This keyword will have to be strategically placed through the page to rank high on Google.
@@ -482,7 +482,7 @@ It has to be included in:
 - Content -> Many times
 - Meta Description
 
-### Meta SEO
+## Meta SEO
 
 Meta description and meta title is the information that IS NOT displayed on your webpage. Its something that is displayed for the search engines for your benefit. So instead of your page being displayed with lengthy sentances and titles that make less sence for the perticular search term, you can customize these titles and decriptions to get more traffic to your site.
 
@@ -503,7 +503,7 @@ __Create a cornerstone page:__
   
 Makes users stay longer, which gives Google a postive signal to rank you higher.
 
-#### Structuring a cornerstone page:
+### Structuring a cornerstone page:
 
 - `<h1>` tag: 1
 - `<h2>` tag: 5-10
@@ -512,12 +512,12 @@ Makes users stay longer, which gives Google a postive signal to rank you higher.
   - Good grammar/spelling
   - Good content
   
-#### Interlinking your pages
+### Interlinking your pages
 
 Getting backlinks is not easy, but you can get a boost from google just by interlinking your site.
 Which means linking to other articles in your articles, where you strategically set the anchor text to be some keyword you want to rank for (should have something to do with the content behind it).
 
-#### Advanced Interlinking:
+### Advanced Interlinking:
 
 Include a table of content for your articles.
 This will boost your position and give you an oppertunity to add your focus/long tail keyword.
@@ -545,7 +545,7 @@ Simple do something like this:
 //... content 3
 ```
 
-#### Add link tooltip
+### Add link tooltip
 
 Add keywords to your title attribute of your links.
 
@@ -553,11 +553,11 @@ Add keywords to your title attribute of your links.
 <a title="Cpper lamps" href="www.orientdesign.no/products">
 ```
 
-#### Image Alt tag tooltip:
+### Image Alt tag tooltip:
 
 Add keywords in your `<img alt="keywords">` attribute.
 
-#### How long should a article be for SEO?
+### How long should a article be for SEO?
 
 Blog post:
 Niche post = 300-500 words
@@ -574,7 +574,7 @@ Home page:
   - Use your keywords
   - Remember: Good is better than long
 
-##### Best of both words: Testing Strategy
+### Best of both words: Testing Strategy
 
 1. Start with few hundred words
 2. See where it ranks
@@ -583,7 +583,7 @@ Home page:
 If you rank upwards, keep going. If its stale, change.
 Over time, build it up, dont over-invest into a page at once.
 
-#### Role of Content For SEO
+### Role of Content For SEO
 
 - Useful content - no shallow articles
   - They need to be good and USEFULL
@@ -595,24 +595,24 @@ Over time, build it up, dont over-invest into a page at once.
 - Dont compromize speed for quality
 
 
-##### How to improve your content?
+### How to improve your content?
 
 MarketMuse.com -> Content AI platform
 - Improve the comprehensiveness of your content by adding new sections about these subtopics or find natural places in your existing copy to expand on them.
 
 - Add more depth to your content by answering questions that are related to your topic. Check what people are asking about your topic on google. A great way to do this is answering questions that keep your audience up at night, this will engage your audience to share your content.
 
-#### Make a sharp Favicon - That stands OUT!
+### Make a sharp Favicon - That stands OUT!
 
 Most favicons are boring, unsharp and bland.
 Make a favicon that stands out colorwize and is sharp so people want to click it.
 Go to fivver and find a couple of people to help you make one.
 
-### Advanced SEO (Hack) With micro product data
+## Advanced SEO (Hack) With micro product data
 
 - Show data like rating in search results to build trust with your customer.
 
-#### Embedded Review Stars
+### Embedded Review Stars
 
 - Gain more space in the search engine results.
 
@@ -635,7 +635,7 @@ Highlight the areas you want to aggregate html out of, assign the values to the 
 __Alternatively:__ 
 Add the attribute `itemprop="image/title/rating/etc` to the tags you are fetching information from to automate the process for new products.
 
-#### Enticing meta tag description to increase Google SEO SERP clickthrough!
+### Enticing meta tag description to increase Google SEO SERP clickthrough!
 
 __First-time marketer posts:__
 - Watch my video.
@@ -672,21 +672,21 @@ __e-Commerce:__
 - New: Save 50% on your gas costs with this easy to install tire pressure meter.
 - New better: Save 50% on your gas costs with this easy to install tire pressure meter that you can install in 2 minutes - start saving 50% today!
 
-#### SEO is Not Just for Algorithms!
+### SEO is Not Just for Algorithms!
 - People have to like it too
 - Copywriting and sales copywriting
 
-### Snippets:
+## Snippets:
 
-#### Rich Snippet:
+### Rich Snippet:
 
 An enhanced organic search result. For example having review stars in your meta description field.
 
-#### Featured Snippet:
+### Featured Snippet:
 
 An answer to a query that appears above the organic search results in __position zero__.
 
-
+### 
 
 
 
