@@ -37,4 +37,6 @@ The 3-Step Writing System Workflow looks like this:
 |----------|:-------------:|----:|
 | Collect  | Curate        | Publish |
 | (Inspiration & Ideas) | (Organize Ideas) | (Publish Ideas) |
-| | | |
+| - Books | | |
+| - Online Articles | | |
+| - Movies/TV | | |
